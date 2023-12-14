@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="SciDirectTrends",
-    version="1.0.0",
+    version="1.0.1",
     license="MIT",
     author="AliReza Beigy",
     author_email="alireza.beigy.rb@gmail.com",
@@ -24,7 +24,9 @@ setup(
     long_description_content_type="text/markdown",
     install_requires=[
         "requests",
-        "matplotlib"
+        "matplotlib",
+        "seaborn",
+        "numpy"
     ],
     keywords="ScienceDirect, data visualization, publication trends",
     classifiers=[

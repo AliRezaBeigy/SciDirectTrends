@@ -1,6 +1,6 @@
 build/
 dist/
-Gitools.egg-info/
+*.egg-info/
 **/__pycache__/
 *.pyd
 .idea/
