@@ -1,0 +1,6 @@
+build/
+dist/
+Gitools.egg-info/
+**/__pycache__/
+*.pyd
+.idea/
