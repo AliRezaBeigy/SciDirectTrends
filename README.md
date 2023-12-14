@@ -9,7 +9,7 @@
 A tool for fetching and visualizing publication trends from ScienceDirect.
 
 <p align="center">
-  <img width="1350" src="https://raw.githubusercontent.com/AliRezaBeigy/SciDirectTrends/master/sample/trend.png">
+  <img width="1350" src="https://raw.githubusercontent.com/AliRezaBeigy/SciDirectTrends/main/sample/trend.png">
 </p>
 
 ## Requirements
