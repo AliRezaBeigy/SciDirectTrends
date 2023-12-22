@@ -38,6 +38,13 @@ Customize the visualization:
 $ scidirecttrends --title "Custom Title" --query "your query here" --output "trend.png"
 ```
 
+Sample Code:
+```python
+from scidirecttrends import visualization
+
+visualization.plot_publication_trends('"Robotic grasping" OR "Robotic manipulation"', 'trend.png', 'Robotic manipulation Publication Count per Year')
+```
+
 
 ## Features
 Fetches publication data from ScienceDirect based on a user-defined query.
